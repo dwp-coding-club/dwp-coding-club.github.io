@@ -31,7 +31,7 @@ POST as friend.html
 signup.html
 
 GET my certificate.tex
-
+[example so far](certificate.pdf)
 PRINT my certificate.pdf
 ### [possible method of reading finalised .pdf as a page](https://github.com/mozilla/pdf.js/blob/master/examples/helloworld/hello.js)
 
@@ -39,8 +39,19 @@ PRINT my certificate.pdf
 ## Example Frontend
 
 Could build as a firefox application.
+Built the icon assets[here](IconOriginal.svg)
+and [here](ResizemeGimp.png)
+
+(As images)
+
+#### Icon as a vector
+![The svg](IconOriginal.svg)
+
+#### Icon as a large size PNG
+![Full scale PNG](ResizemeGimp.png)
+
 ### [Currently very messy and rushed see here](Frontend/index.html)
-Clearly cloned from [here]()
+Clearly cloned from [broken link - tidy up ]()
 
 
 

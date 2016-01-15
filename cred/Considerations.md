@@ -55,7 +55,7 @@ Ambitiously and maybe with a bit of grandiose ;) thought I could learn to do all
 Database Eg:
 
 firstname     | lastname | email|date awarded|  unique identifier|reason|nominated by|
-------------|------------|------------|------------|------------|
+------------|------------|------------|------------|------------|------------|------------|
 max 256 CHAR| max 256 CHAR| max 256 CHAR |DATE(datetime2)| GUID | TEXT| Varchar
 
 
